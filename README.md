@@ -92,7 +92,9 @@ UI and Backend Integration
 - [x] Delete a task
 - [x] Update a task
 - [x] List all the task
-- [x] Pagination 
+- [x] Pagination
+- [x] User authentication
+
 
 
 
